@@ -17,3 +17,8 @@ Question 4:
 Can not sign out of all phones and sign a new butler in for Englewood phones
 Answer 4:
 I have to select logout twice before it works
+
+Question 5:
+The DC Canopy is having major issues logging into the phone
+Answer 5:
+Checked OMS User Management, it doesn’t appear to be an user with credentials “9789”, are you sure you are using correct credentials?
