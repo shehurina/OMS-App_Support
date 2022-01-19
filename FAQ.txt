@@ -1,0 +1,4 @@
+Question 1:	
+Your order has been prepared and it is on it’s way (multiple times message)
+Answer 1:
+If you undo pickup in the app or oms and then pick it up in oms/app, it will definitely happen
