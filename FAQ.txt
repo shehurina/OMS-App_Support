@@ -1,0 +1,24 @@
+Question 1:	
+Your order has been prepared and it is on it’s way (multiple times message)
+Answer 1:
+If you undo pickup in the app or oms and then pick it up in oms/app, it will definitely happen
+
+Question 2:
+App crashed when you sign it. It crashes when taking pictures
+Answer 2:
+This is a issue of not having a local database for the Butler app
+
+Question 3:
+Problems logging in. Allow Location for Butler
+Answer 3:
+Kill the app. Try again. You have to choose “Allow all the time”
+
+Question 4:
+Can not sign out of all phones and sign a new butler in for Englewood phones
+Answer 4:
+I have to select logout twice before it works
+
+Question 5:
+The DC Canopy is having major issues logging into the phone
+Answer 5:
+Checked OMS User Management, it doesn’t appear to be an user with credentials “9789”, are you sure you are using correct credentials?
