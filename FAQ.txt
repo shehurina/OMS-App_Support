@@ -13,3 +13,7 @@ Problems logging in. Allow Location for Butler
 Answer 3:
 Kill the app. Try again. You have to choose “Allow all the time”
 
+Question 4:
+Can not sign out of all phones and sign a new butler in for Englewood phones
+Answer 4:
+I have to select logout twice before it works
