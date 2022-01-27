@@ -8,6 +8,8 @@
    A: I have to select logout twice before it works
 5. Q: The DC Canopy is having major issues logging into the phone
    A: Checked OMS User Management, it doesn’t appear to be an user with credentials “9789”, are you sure you are using correct credentials?
+6. Q: Butler phones in Sunnyvale don't allow us to choose a Hub
+   A: Whatever login you're using probably doesn't have access to the hubs in Sunnyvale
 
 
 
